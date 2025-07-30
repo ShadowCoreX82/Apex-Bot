@@ -33,13 +33,13 @@ const TICKET_CATEGORY_MAP = {
 };
 
 const LOG_CHANNEL_ID = '1399495214644858880'; // Kanal-ID für Bot-Logs
-const VERIFICATION_CHANNEL_ID = '1399463428906649721'; // Kanal-ID für das Verifizierungspanel
-const VERIFIED_ROLE_ID = '1399463553255393301'; // ID der Rolle, die nach der Verifizierung vergeben wird
-const UNVERIFIED_ROLE_ID = '1399463660503027870'; // ID der Rolle für unbestätigte Benutzer (falls verwendet)
-const WELCOME_CHANNEL_ID = '1399463784112255099'; // Optional: Kanal-ID für Willkommensnachrichten
-const VOICE_PING_ROLE_ID = '1399463901691238401'; // ID der Rolle, die bei Sprachkanal-Beitritt gepingt werden soll
-const VOICE_PING_CHANNEL_ID = '1399464010619881472'; // Kanal-ID, in den der Voice-Ping gesendet werden soll
-const EMBED_CREATOR_ROLE_ID = '1399464112467558913'; // Rolle, die Embeds erstellen darf
+const VERIFICATION_CHANNEL_ID = '1399491570771824650'; // Kanal-ID für das Verifizierungspanel
+const VERIFIED_ROLE_ID = '1399488560649998458'; // ID der Rolle, die nach der Verifizierung vergeben wird
+const UNVERIFIED_ROLE_ID = '1399505743199342602'; // ID der Rolle für unbestätigte Benutzer (falls verwendet)
+const WELCOME_CHANNEL_ID = '1399491508771754074'; // Optional: Kanal-ID für Willkommensnachrichten
+const VOICE_PING_ROLE_ID = '1399499924902645860'; // ID der Rolle, die bei Sprachkanal-Beitritt gepingt werden soll
+const VOICE_PING_CHANNEL_ID = '1399499752248447036'; // Kanal-ID, in den der Voice-Ping gesendet werden soll
+const EMBED_CREATOR_ROLE_ID = '1400155039741509702'; // Rolle, die Embeds erstellen darf
 
 
 // In-Memory-Speicher für die letzten Logs (für den search-logs Befehl)
