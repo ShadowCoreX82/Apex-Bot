@@ -39,7 +39,7 @@ const UNVERIFIED_ROLE_ID = '1399463660503027870'; // ID der Rolle für unbestät
 const WELCOME_CHANNEL_ID = '1399463784112255099'; // Optional: Kanal-ID für Willkommensnachrichten
 const VOICE_PING_ROLE_ID = '1399463901691238401'; // ID der Rolle, die bei Sprachkanal-Beitritt gepingt werden soll
 const VOICE_PING_CHANNEL_ID = '1399464010619881472'; // Kanal-ID, in den der Voice-Ping gesendet werden soll
-const EMBED_CREATOR_ROLE_ID = '1399499924902645860'; // Rolle, die Embeds erstellen darf
+const EMBED_CREATOR_ROLE_ID = '1399464112467558913'; // Rolle, die Embeds erstellen darf
 
 
 // In-Memory-Speicher für die letzten Logs (für den search-logs Befehl)
